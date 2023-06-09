@@ -1,11 +1,11 @@
 # Node JS With JWT Authentication
 
 # Generting Token With Your Secert Key
-![image](https://github.com/pradeep4uhere/react-router-with-pages-sample/blob/master/Screenshot%202023-06-05%20184126.png)
+![image](https://github.com/pradeep4uhere/jwt-auth-login-in-node-js/blob/master/Screenshot%202023-06-09%20155400.png)
 
 -------------------------------------------------------------------------------
 # Sample Screenshot After Token Verify
-![image](https://github.com/pradeep4uhere/react-router-with-pages-sample/blob/master/ezgif.com-video-to-gif.gif)
+![image](https://github.com/pradeep4uhere/jwt-auth-login-in-node-js/blob/master/Screenshot%202023-06-09%20155554.png)
 
 # Dependencies
 <code>
